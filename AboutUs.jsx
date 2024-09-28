@@ -12,7 +12,7 @@ const AboutUs = () => {
 
       <div className="content">
         <p>
-          Welcome to <b>Park Snap</b>, the vehicles parking managemen system for LSEG.
+          Welcome to <b>Park Snap</b>, the vehicles (car,Bike) parking managemen system for LSEG.
           Developed by students from the University of Moratuwa IT Faculty, Park
           Snap is designed to make parking at LSEG easy and efficient.
         
